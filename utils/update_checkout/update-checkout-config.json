@@ -41,7 +41,7 @@
             "platforms": [ "Linux" ]
         },
         "yams": {
-            "remote": { "id": "jpsim/Yams" }
+            "remote": { "id": "asuhan/Yams" }
         },
         "cmake": {
             "remote": { "id": "KitWare/CMake" },
